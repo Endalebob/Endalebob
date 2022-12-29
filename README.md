@@ -24,9 +24,7 @@
 
 ---
 ### 🧑 About Me
-<p>✨Enthusiastic and motivated Undergraduate Software Engineering student with a superior work ethic
-and good teamwork, problemsolving and organizational skills. Reliable and dedicated team player with a hard-working and
-resourceful approach.</p>
+<p>✨I am an enthusiastic and motivated software engineering student currently studying at Addis Ababa University. I have a passion for coding and problem solving and enjoy discovering innovative solutions to create products that improve user experience. My technical abilities include Python, JavaScript, HTML, CSS, Dart, C++, Flutter, Django, Spring, MySQL, React, Java and software development project management techniques.</p>
 💻 I am a Mobile Application and Full Stack Developer. <br />
 🏖 I like to read, play pool, and solve problems. <br />
 
