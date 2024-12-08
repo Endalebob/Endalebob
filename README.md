@@ -24,9 +24,7 @@
 
 ---
 ### 🧑 About Me
-<p>✨As an enthusiastic and motivated software engineer, I am passionate about coding and problem-solving. I enjoy discovering innovative solutions to create products that enhance user experience. My technical abilities include <b><i>Python, JavaScript, HTML, Tailwind CSS, Web Scrapping, Next.js, Chatbot Development, Machine learning, CSS, Dart, C++, Flutter, Django, Spring, MySQL, React, Java, and software development project management techniques.</i></b></p>
-💻 I am a Mobile Application and Full Stack Developer. <br />
-🏖 I like to read, play pool, and solve problems. <br />
+<p>✨ I am an enthusiastic and motivated software engineer with a passion for coding and problem-solving. I thrive on discovering innovative solutions to create impactful products that enhance user experiences. My technical expertise includes <b><i>Python, JavaScript, HTML, Tailwind CSS, Web Scraping, Next.js, Chatbot Development, Machine Learning, CSS, Dart, C++, Flutter, Django, Spring, MySQL, React, Java, FastAPI, and software development project management techniques.</i></b></p> 💻 I am a Backend and Full Stack Developer with extensive experience in building scalable applications. <br /> 🏖 In my free time, I enjoy reading, playing pool, and solving challenging problems. <br />
 
 ---
 
