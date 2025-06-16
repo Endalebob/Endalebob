@@ -1,9 +1,12 @@
 <div id="header" align="center">
   <h1>
-    Hi, I'm Endale&nbsp;
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+    Hey there, I’m <span style="color:#00ADEF;">Endale</span> 👋
   </h1>
-  <img src="https://media.giphy.com/media/3oEdv1vkhqxcynkB5C/giphy.gif" />
+  <h3>
+    Generative-AI &amp; Back-End Engineer&nbsp;|&nbsp;Python&nbsp;•&nbsp;FastAPI&nbsp;•&nbsp;AWS
+  </h3>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coder at work" />
+
   <br />
 
   <div id="badges">
