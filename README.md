@@ -31,7 +31,7 @@
 ✨ Generative-AI enthusiast & back-end engineer obsessed with solving hard problems.  
 - 🔭 I build **LLM-powered chatbots, RAG systems, and scalable APIs** with Python, FastAPI, and AWS.  
 - ⚙️ I orchestrate **large-scale ETL pipelines** (100 M+ rows) and embed data into vector stores (Pinecone, FAISS).  
-- 🛠 Recent tools: **LangChain, LangGraph, Hugging Face, Docker, Terraform**.  
+- 🛠 Recent tools: **LangChain, LangGraph, Hugging Face, Docker, Terraform, Coolify**.  
 - 🏆 800 + LeetCode problems & frequent competitive-programming participant.  
 - ☕ When AFK, you’ll find me hiking Ethiopian highlands or devising new AI side-projects.
 
